@@ -392,7 +392,7 @@ $mod_strings = array (
 
 
 	'LBL_ML_ACTION' => 'Działania',
-	'LBL_ML_CANCEL'=>'Skasuj',
+	'LBL_ML_CANCEL'=>'Anuluj',
 	'LBL_ML_COMMIT'=>'Wykonaj',
 	'LBL_ML_DESCRIPTION' => 'Opis',
 	'LBL_ML_INSTALLED' => 'Data zainstalowania',

@@ -164,7 +164,7 @@ $mod_strings = array (
   'LBL_NO_ACTIVE_TIMEPERIOD'=>'Nie ma aktywnych przedziałów czasowych dla prognoz.',
   'LBL_FDR_ADJ_AMOUNT'=>'Ustawiona kwota',
   'LBL_SAVE_WOKSHEET'=>'Zapisz arkusz',
-  'LBL_RESET_WOKSHEET'=>'Skasuj arkusz',
+  'LBL_RESET_WOKSHEET'=>'Usuń arkusz',
   'LBL_SHOW_CHART'=>'Zobacz wykresy',
   'LBL_RESET_CHECK'=>'Wszystkie dane z arkuszy dla wybranych przedziałów czasowych  i zalogowanych użytkowników zostaną usunięte. Czy kontynuować?',
   

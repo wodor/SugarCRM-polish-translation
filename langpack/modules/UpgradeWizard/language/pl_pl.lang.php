@@ -83,7 +83,7 @@ $mod_strings = array(
 								),
 	
 	'LBL_BUTTON_BACK'=> 'Powrót',
-	'LBL_BUTTON_CANCEL'=> 'Skasuj',
+	'LBL_BUTTON_CANCEL'=> 'Anuluj',
 	'LBL_BUTTON_DELETE'=> 'Usuń pakiet',
 	'LBL_BUTTON_DONE'=> 'Zrobione',
 	'LBL_BUTTON_INSTALL'=> 'Wstępna instalacja',
@@ -261,7 +261,7 @@ $mod_strings = array(
 	'LBL_BACKWARD_COMPATIBILITY_ON' 			=> 'Tryb wstecznej kompatybilności php jest włączony. Ustaw dyrektywę "zend.ze1_compatibility_mode" na "Off", aby kontynuować.',
 	//including some strings from moduleinstall that are used in Upgrade
 	'LBL_ML_ACTION' => 'Akcja',
-    'LBL_ML_CANCEL'             => 'Skasuj',
+    'LBL_ML_CANCEL'             => 'Anuluj',
     'LBL_ML_COMMIT'=>'Wykonaj',
     'LBL_ML_DESCRIPTION' => 'Opis',
     'LBL_ML_INSTALLED' => 'Data instalacji',
