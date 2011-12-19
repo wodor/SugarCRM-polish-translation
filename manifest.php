@@ -26,7 +26,7 @@ $manifest = array(
 //Dla Enterprise:
 	2 => 'ENT',
       ),
-    'version' => '4.7',
+    'version' => '6.4',
     'is_uninstallable' => true,
     'type' => 'langpack',
     'icon' => '',
