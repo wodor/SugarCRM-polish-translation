@@ -159,6 +159,7 @@ $mod_strings = array (
 	
 	'LNK_ACCOUNT_LIST' => 'Klienci',
 	'LNK_NEW_ACCOUNT' => 'Dodaj klienta',
+    'LNK_IMPORT_ACCOUNTS' => 'Import Klientów',
 
 	'MSG_DUPLICATE' => 'Stworzenie tego wpisu może spowodować zduplikowanie danych. Możesz wybrac jedną z poniższych możliwości, lub kliknąć na [Dodaj klienta], aby utworzyć nowego klienta, korzystając z danych wprowadzonych wcześniej.',
 	'MSG_SHOW_DUPLICATES' => 'Wprowadzając tego użytkownika prawdopodobnie powielasz istniejące dane. Możesz wybrać dane z listy lub kliknąć Dodaj klienta aby kontynuować wprowadzanie danych zachowując wartości z formularza.',

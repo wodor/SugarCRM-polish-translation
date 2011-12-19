@@ -165,6 +165,7 @@ $mod_strings = array (
 	'LNK_SENT_EMAIL_LIST'		=> 'Wysłane wiadomości',
 	'LNK_TASK_LIST'				=> 'Zadania',
 	'LNK_VIEW_CALENDAR'			=> 'Dzisiaj',
+    'LNK_VIEW_MY_INBOX'         => 'Skrzynka Odbiorcza',
 
 	'LBL_LIST_ASSIGNED'		=> 'Przydzielone',
 	'LBL_LIST_CONTACT_NAME'		=> 'Nazwa kontatku',

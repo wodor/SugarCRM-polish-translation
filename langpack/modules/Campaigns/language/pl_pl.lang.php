@@ -385,6 +385,7 @@ $mod_strings = array (
     'LBL_MODIFIED_USER' => 'Użytkownik modyfikujący',
     'LBL_LOG_ENTRIES' => 'Wpisy logu',
 
+    'LNL_NEW_CAMPAIGN_WIZARD' => 'Kreator Kampanii',
 );
 
 

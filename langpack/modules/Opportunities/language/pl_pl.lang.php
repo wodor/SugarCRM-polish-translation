@@ -103,6 +103,7 @@ $mod_strings = array (
   'LNK_NEW_OPPORTUNITY' => 'Dodaj temat',
 
   'LNK_OPPORTUNITY_REPORTS' => 'Raporty tematów',
+  'LNK_IMPORT_OPPORTUNITIES' => 'Import tematów',
 
   'LNK_OPPORTUNITY_LIST' => 'Tematy',
   'ERR_DELETE_RECORD' => 'Muszisz wybrac rekord, aby usunąć temat.',
