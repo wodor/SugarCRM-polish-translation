@@ -405,8 +405,22 @@ $mod_strings = array (
 	'LBL_ML_ENABLE_OR_DISABLE'=>'Włącz/Wyłącz',
 	'LBL_ML_DELETE'=>'Usuń',
 
+    'LBL_IMPORT_WIZARD' => 'Kreator importu',
+    'LBL_IMPORT_WIZARD_DESC' => 'Import danych do SugarCRM',
+    'LBL_THEME_SETTINGS' => 'Zarządzanie skórkami',
+    'LBL_THEME_SETTINGS_DESC' => 'Wybór dostępnych skórek',
+    'LBL_MANAGE_LANGUAGES' => 'Zarządzaj językami',
+    'LBL_LANGUAGES' => 'Wybór dostępnych języków',
+    'LBL_OAUTH_TITLE' => 'Autoryzacja OAuth',
+    'LBL_OAUTH' => 'Zarządzanie kluczami OAuth',
+    'LBL_GLOBAL_SEARCH_SETTINGS' => 'Ustawienia wyszukiwania',
+    'LBL_GLOBAL_SEARCH_SETTINGS_DESC' => 'Wybór modułów obsługiwanych przez  globalną wyszukiwarkę',
 
+    'LBL_CHANGE_NAME_MODULES' => 'Zmiana nazw elementow menu',
 
+    'LBL_CONFIGURE_TABS_AND_SUBPANELS' => 'Konfiguracja zakładek',
+    'LBL_CONFIGURE_TABS_AND_SUBPANELS_DESC' => 'Konfiguracja zakładek i subpaneli',
+        
 	'LBL_MODIFY_CREDENTIALS' => 'Modyfikuj dane logowania',
 	'LBL_MODULE_LICENSE' => 'Przeczytaj poniższą umowę licencyjną:',
 	'LBL_MODULE_LOADER_TITLE' => 'Ładowacz modułów',
