@@ -1,0 +1,6 @@
+download or clone the files 
+then 
+cd SugarCRM-polish-translation/ &&  zip -r ../Sugar_pl_PL.zip * && cd ..
+
+
+

@@ -6,13 +6,14 @@ $manifest = array(
     array (
         'exact_matches' => array (
 	),
-        'regex_matches' => array (0 => '5\.*\.*?'
+        'regex_matches' => array (
+		0 => '6\.*\.*?'
 	),
     ),
-    'name' => 'Polskie Tłumacznie v.4.7',
-    'description' => 'Polskie Tłumaczenie aplikacji SugarCRM v.5.2c',
+    'name' => 'Polskie Tłumacznie v.6.4',
+    'description' => 'Polskie Tłumaczenie aplikacji SugarCRM v.6.4c',
     'author' => 'Krzysztof Morawski',
-    'published_date' => '24/03/2009',
+    'published_date' => '19/12/2011',
     'acceptable_sugar_flavors' =>
       array (
 
