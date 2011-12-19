@@ -1,4 +1,5 @@
-download and unpack zip file https://github.com/wodor/SugarCRM-polish-translation/zipball/master
+download and unpack zip file https://github.com/wodor/SugarCRM-polish-translation/zipball/master 
+UNPACK it (it's not ready to upload directly)
 or 
 git clone https://github.com/wodor/SugarCRM-polish-translation.git SugarCRM-polish-translation
 then 
@@ -6,6 +7,7 @@ cd SugarCRM-polish-translation/ &&  zip -r ../Sugar_pl_PL.zip * && cd ..
 
 
 sciagnij zipa  https://github.com/wodor/SugarCRM-polish-translation/zipball/master
+ROZPAKUJ go (nie moze byc przesłany od razu - github automatycznie tworzy paczke z plikiem manifest.php w katalogu podrzednym)
 albo
 git clone https://github.com/wodor/SugarCRM-polish-translation.git SugarCRM-polish-translation
 
